@@ -1,0 +1,8 @@
+name = "bank-demo"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bank-demo-db"
+database_id = "7d431f63-aa43-480f-805f-f1c90345eda0"
